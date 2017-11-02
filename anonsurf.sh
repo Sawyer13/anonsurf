@@ -15,8 +15,10 @@
 # Lisetta 'Sheireen' Ferrero <sheireen@frozenbox.org>
 # Francesco 'mibofra'/'Eli Aran'/'SimpleSmibs' Bonanno <mibofra@ircforce.tk> <mibofra@frozenbox.org>
 #
+#
 # Extended:
 # Daniel 'Sawyer' Garcia <dagaba13@gmail.com>
+#
 #
 # anonsurf is free software: you can redistribute it and/or
 # modify it under the terms of the GNU General Public License as
