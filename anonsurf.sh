@@ -409,7 +409,7 @@ Parrot AnonSurf Module (v 2.5)
 	$RED status$BLUE -$GREEN Check if AnonSurf is working properly
 	$RED myip$BLUE -$GREEN Check your ip and verify your tor connection
 	$RED mymac$BLUE -$GREEN Check your mac and verify your change mac address
-	$RED changemac$BLUE -$GREEN Change your MAC ADDRESS $RED(-r to restore)
+	$RED changemac$BLUE -$GREEN Change your MAC ADDRESS $RED(-r to restore or -m to change manually)
 
 	----[ I2P related features ]----
 	$RED starti2p$BLUE -$GREEN Start i2p services
